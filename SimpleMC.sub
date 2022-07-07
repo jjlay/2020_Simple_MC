@@ -5,6 +5,6 @@
 #PBS -o SimpleMC_out.txt
 #PBS -e SimpleMC_err.txt
 
-/home/jjlay/src/dissertation/Chapter_01_Introduction/01_Euler-Maruyama/SimpleMC
+/home/jjlay/src/2020_Simple_MC/SimpleMC
 
 
